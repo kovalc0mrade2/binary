@@ -1,0 +1,17 @@
+Alternatives To MVC
+Last week, I wrote A Beginner's Guide To MVC For The Web. In it, I described some of the problems with both the MVC pattern and the conceptual "MVC" that frameworks use. But what I didn't do is describe better ways. I didn't describe any of the alternatives. So let's do that. Let's talk about some of the alternatives to MVC...
+
+Problems With MVC
+Let's restate the fundamental problems we talked about that exist with MVC:
+
+MVC Is Stateful
+
+It only makes sense if the View, as well as the View-Model binding is stateful (so the Model can update the View when it changes)
+
+MVC Has No Single Interpretation
+
+Every framework uses their own nuanced version.
+
+How Does Logging Fit In?
+
+Where does application code that's not clearly data-centric belong in the application?
