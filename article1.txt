@@ -1,0 +1,13 @@
+Trust
+Stop and take a moment to think about how much trust is required to live your everyday life. Every single aspect of your life is built up on layer after layer of trust, it's nothing short of staggering. Different aspects of life will contain different levels of trust, with some being very guarded and some being very lax. We don't often talk about this trust and we often make the blind assumption that trust is inherently a bad thing. That's most definitely not the case. Let's explore why.
+
+Driving
+Let's look at the simple(ish) case of driving. There's an extraordinary amount of trust required. When you're behind the wheel, you're not only trusting every single engineer who designed every component of your vehicle, but of every surrounding vehicle as well. You're trusting the quality assurance processes of each manufacturer. You're trusting the assembly line technician. You're trusting the mechanics. The part manufacturers. Not to mention the surrounding infrastructure (who would want a road to collapse when they are driving on it).
+
+You also need to trust the drivers around you. You trust that the person driving next to you on the highway isn't going to randomly jerk the wheel into you and cause an accident. You trust that they aren't drunk or otherwise impaired. That they are also driving in the shared best interest of safety.
+
+Yet we all know that blind trust in any of those items is bad. Driving schools teach "Defensive Driving" techniques, to prepare you if someone does drive poorly around you. You take your car to mechanics to be inspected so you can verify that the parts that the engineer said were going to last, are going to be safe and last.
+
+Each and every one of these "Trusts" are leaky, meaning that we all know of instances that each and every one of them have failed (remember the Ford Pinto?). Yet it's far more useful to us to trust than not to, even though we all know that trust isn't perfect.
+
+As a society, we've built mechanisms to balance the benefits of reducing the necessary trust against the costs that the measures take to implement.
