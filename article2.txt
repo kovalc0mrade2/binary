@@ -1,9 +1,23 @@
-Being A Responsible Developer
-Last night, I was listening to the combined DevHell and PHPTownHall Mashup podcast recording, listening to them discuss a topic I talked about in my last blog post. While they definitely understood my points, they for the most part disagreed with me (there was some contention in the discussion though). I don't mind that they disagreed, but I was rather taken aback by their justification. Let me explain...
+#Being A Responsible Developer
 
-The Rationale
-The general consensus was that as an ideology, only supporting latest versions is correct. From a practical standpoint though they said that it's unrealistic. That there are tons of legacy systems out there that are running just fine and can't justify the cost of upgrading. So they shouldn't have to upgrade "for ideological reasons".
+Last night, I was listening to the combined DevHell and PHPTownHall Mashup podcast 
+recording, listening to them discuss a topic I talked about in my last blog post. 
+While they definitely understood my points, they for the most part disagreed with 
+me (there was some contention in the discussion though). I don't mind that they 
+disagreed, but I was rather taken aback by their justification. Let me explain...
 
-From one point of view, this certainly makes sense. It can be expensive to maintain software, especially old and outdated software. If it's running, why not just let it run? After all, if you don't have problems with it, why bother touching it (if it ain't broke, don't fix it).
+##The Rationale
 
-This point of view disturbs me deeply. And it further disturbs me that it came from the same person who preaches for testing.
+The general consensus was that as an ideology, only supporting latest versions is 
+correct. From a practical standpoint though they said that it's unrealistic. That 
+there are tons of legacy systems out there that are running just fine and can't 
+justify the cost of upgrading. So they shouldn't have to upgrade "for ideological 
+reasons".
+
+From one point of view, this certainly makes sense. It can be expensive to maintain 
+software, especially old and outdated software. If it's running, why not just let 
+it run? After all, if you don't have problems with it, why bother touching it (if 
+it ain't broke, don't fix it).
+
+This point of view disturbs me deeply. And it further disturbs me that it came 
+from the same person who preaches for testing.
